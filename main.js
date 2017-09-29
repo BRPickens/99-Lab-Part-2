@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", function () {
-    var friends = ["Wade", "Keenan", "Darcell", "Andrew", "Barron"];
+    var friends = ["Wade", "Keenan", "Darcell", "Andrew", "Jebraun"];
     var buttonContainer = document.createElement('div');
     var btn = document.createElement('button');
     var sing = document.createTextNode("Sing!");
